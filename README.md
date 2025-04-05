@@ -17,5 +17,5 @@
 - Research-ready ML pipelines
 
 ## 📬 Connect With Me  
-[LinkedIn]: (https://www.linkedin.com/in/ajmal-m-282670284) 
+- [LinkedIn]: (https://www.linkedin.com/in/ajmal-m-282670284) 
 
