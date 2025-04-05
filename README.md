@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ajmal
 
-🚀 Student @ IIT Madras  
-🧠 Building real-world AI 
+🚀 BS in Data Science @ IIT Madras  
+🧠 Building real-world AI for Middle East and Healthcare  
 💼 Interested in AI Research, LLMs, and Smart City AI  
 📌 Currently working on an LLM-powered Fraud Detection AI
 
@@ -17,5 +17,6 @@
 - Research-ready ML pipelines
 
 ## 📬 Connect With Me  
-- [LinkedIn]: (https://www.linkedin.com/in/ajmal-m-282670284) 
+[LinkedIn](https://www.linkedin.com/in/ajmal-m-282670284/) 
+
 
