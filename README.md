@@ -22,14 +22,17 @@ I’m on a mission to master ML, DL, NLP, LLMs, and deploy real-world solutions.
 - Imbalanced Data Handling  
 - Research-Ready ML Pipelines  
 
-## 📊 Progress
-- **Weeks**: ![Progress](https://img.shields.io/badge/Week-1%2F52-brightgreen)  
-- **Papers**: 1/52 read  
-- **Commits**: Check my [activity](https://github.com/AjmalMIITM)  
+## 📊 PROGRESS
+- **WEEK PROGRESS**: ![Progress](https://img.shields.io/badge/Week-1%2F52-FF0000?style=for-the-badge)  
+- **PAPER COUNT**: 1/52 DECIMATED  
+- **COMMIT STREAK**: [BATTLE LOG](https://github.com/AjmalMIITM)  
+- **ACTIVITY GRAPH**:  
+  ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=AjmalMIITM&theme=react-dark)
 
-## 🤝 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/ajmal-m-282670284/)  
-- [Mini-Projects](https://github.com/AjmalMIITM/Mini-ML-Projects)
+## 🤝 LET'S CONNECT
+- [LINKEDIN WAR COUNCIL](https://www.linkedin.com/in/ajmal-m-282670284/)  
+- [PROJECT BATTLEGROUND](https://github.com/AjmalMIITM/Mini-ML-Projects)
 
-## 📈 Stats
-![Ajmal’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjmalMIITM&show_icons=true&theme=radical)
+## 🌠 STATS 
+![Ajmal’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjmalMIITM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjmalMIITM&theme=dracula&layout=compact)
