@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajmal
 
-🚀 BS in Data Science @ IIT Madras  
+🚀 Bachelors @ IIT Madras  
 🧠 Building real-world AI for Middle East and Healthcare  
 💼 Interested in AI Research, LLMs, and Smart City AI  
 📌 Currently working on an LLM-powered Fraud Detection AI
