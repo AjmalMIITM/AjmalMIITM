@@ -1,22 +1,35 @@
-# 👋 Hi, I'm Ajmal
+# 👋 Hey, I’m Ajmal! 🚀
+**Bachelors @ IIT Madras** | Crafting AI for Middle East & Healthcare 🌍💡  
+I’m on a mission to master ML, DL, NLP, LLMs, and deploy real-world solutions.
 
-🚀 Bachelors @ IIT Madras  
-🧠 Building real-world AI for Middle East and Healthcare  
-💼 Interested in AI Research, LLMs, and Smart City AI  
-📌 Currently working on an LLM-powered Fraud Detection AI
+## 🎯 What I’m Up To
+- **Now**: LLM-powered Fraud Detection AI
+- **Next**: Smart City AI for UAE
+- **Projects**:  
+  - LLM-powered Fraud Detection AI
+  - Smart City AI for UAE  
+  - Healthcare Recall Optimization
 
-## 🔧 Tech Stack  
-- Python, Pandas, NumPy  
-- Scikit-learn, TensorFlow, PyTorch  
-- Hugging Face, LangChain, SHAP, Streamlit  
-- Git, GitHub, Linux  
+## 🛠️ Tech Arsenal
+- **Core**: Python, Pandas, NumPy  
+- **ML/DL**: Scikit-learn, TensorFlow, PyTorch  
+- **NLP/LLM**: Hugging Face, LangChain  
+- **XAI/Deploy**: SHAP, Streamlit  
+- **Tools**: Git, GitHub, Linux  
 
-## 📈 Currently Learning  
+## 🌱 Learning Path
 - Explainable AI (XAI)  
-- Imbalanced data handling  
-- Research-ready ML pipelines
+- Imbalanced Data Handling  
+- Research-Ready ML Pipelines  
 
-## 📬 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/ajmal-m-282670284/) 
+## 📊 Progress
+- **Weeks**: ![Progress](https://img.shields.io/badge/Week-1%2F52-brightgreen)  
+- **Papers**: 1/52 read  
+- **Commits**: Check my [activity](https://github.com/AjmalMIITM)  
 
+## 🤝 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/ajmal-m-282670284/)  
+- [Mini-Projects](https://github.com/AjmalMIITM/Mini-ML-Projects)
 
+## 📈 Stats
+![Ajmal’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjmalMIITM&show_icons=true&theme=radical)
