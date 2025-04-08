@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Ajmal! 🚀
+# 👋 Hey, I’m Ajmal! 
 **Bachelors @ IIT Madras** | Crafting AI for Middle East & Healthcare 🌍💡  
 I’m on a mission to master ML, DL, NLP, LLMs, and deploy real-world solutions.
 
@@ -30,8 +30,8 @@ I’m on a mission to master ML, DL, NLP, LLMs, and deploy real-world solutions.
   ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=AjmalMIITM&theme=react-dark)
 
 ## 🤝 LET'S CONNECT
-- [LINKEDIN WAR COUNCIL](https://www.linkedin.com/in/ajmal-m-282670284/)  
-- [PROJECT BATTLEGROUND](https://github.com/AjmalMIITM/Mini-ML-Projects)
+- [LINKEDIN](https://www.linkedin.com/in/ajmal-m-282670284/)  
+- [MINI-PROJECTS](https://github.com/AjmalMIITM/Mini-ML-Projects)
 
 ## 🌠 STATS 
 ![Ajmal’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjmalMIITM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
