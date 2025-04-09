@@ -1,15 +1,15 @@
 # 👋 Hey, I’m Ajmal! 
-**Bachelors @ IIT Madras** | Crafting AI for Middle East & Healthcare 🌍💡  
+**Bachelors @ IIT Madras** | Crafting AI for Global, Middle East & Healthcare 🌍💡  
 I’m on a mission to master ML, DL, NLP, LLMs, and deploy real-world solutions.
 
 ## 🎯 What I’m Up To
 - **Now**: LLM-powered Fraud Detection AI
-- **Next**: Smart City AI for UAE
+- **Next**: Smart City AI
 - **Projects**:  
   - LLM-powered Fraud Detection AI
-  - Smart City AI for UAE  
-  - Healthcare Recall Optimization
-
+  - Smart City AI 
+  - Healthcare
+    
 ## 🛠️ Tech Arsenal
 - **Core**: Python, Pandas, NumPy  
 - **ML/DL**: Scikit-learn, TensorFlow, PyTorch  
