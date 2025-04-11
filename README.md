@@ -34,7 +34,6 @@ I wield the power of Machine Learning, Deep Learning, NLP, and LLMs to forge gro
 
 ## 📈 **METRICS OF MASTERY**  
 - **Journey Epoch**: ![Weeks](https://img.shields.io/badge/Weeks-1-00FFFF?style=for-the-badge&logo=clock) *(Since Apr 8, 2025)*  
-  - *Evolves into Project Milestones in 2026*  
 - **Research Conquests**: 1 Paper Vanquished  
 - **Code Chronicles**: [Commit Saga](https://github.com/AjmalMIITM)  
 - **Activity Constellation**:  
