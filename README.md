@@ -1,48 +1,45 @@
-# 🌌 **AJMAL: ARCHITECT OF AI COSMOS** 🌠  
-**UG Visionary | IIT Madras**  
-Crafting an **Eternal Legacy in Artificial Intelligence**—Transforming Healthcare, Empowering the Middle East, and Redefining Global Horizons.  
-I wield the power of Machine Learning, Deep Learning, NLP, and LLMs to forge groundbreaking solutions that resonate across continents. **Embark on this odyssey with me.**  
+# 🌌 **AJMAL M: AI ARCHITECT & VISIONARY** 🌠
+**[UG @ IIT Madras]** | Machine Learning Engineer | Deep Learning | NLP | LLMs
 
-## ⚡️ **CURRENT EXPEDITION: THE AI VANGUARD**  
-- **Phase I**: *SHAP vs. LIME Supremacy* – Titanic Dataset Conquest  
-  - **Status**: Dataset Mastered | SHAP Analysis Unleashing…  
-  - **Arsenal**: [Mini-ML-Projects](https://github.com/AjmalMIITM/Mini-ML-Projects)  
-- **Phase II**: *SMOTE vs. ADASYN Clash* – Ignites Apr 14-20, 2025  
+Building high-impact AI solutions with a focus on **Healthcare Transformation** and **MENA Region Innovation**. Leveraging ML, DL, NLP, and LLM expertise to solve complex challenges and drive progress. **Join the journey.**
 
-## 🌍 **FUTURE DOMINIONS: BLUEPRINTS OF INNOVATION**  
-- **AI Healverse**  
-  Diabetic Retinopathy Detection – A Visionary Leap in Healthcare AI  
-  - *Horizon*: [ai-healverse](https://github.com/AjmalMIITM/ai-healverse) *(Coming Soon)*  
-- **Fraud Detection AI**  
-  LLM-Powered Sentinel Against Deception  
-  - *Horizon*: [fraud-detection-ai](https://github.com/AjmalMIITM/fraud-detection-ai) *(Coming Soon)*  
-- **MENA AI Frontier** 
-  Smart City Evolution for UAE – A Beacon of Technological Sovereignty  
-  - *Horizon*: [mena-ai-frontier](https://github.com/AjmalMIITM/mena-ai-frontier) *(Coming Soon)*  
+🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/ajmal-m-282670284/)
 
-## 🛡️ **TECHNOLOGICAL ARSENAL**  
-- **Core Foundations**: Python | Pandas | NumPy  
-- **ML & DL Titans**: Scikit-learn | TensorFlow | PyTorch  
-- **NLP & LLM Catalysts**: Hugging Face | LangChain  
-- **XAI & Deployment Catalysts**: SHAP | Streamlit  
-- **Workflow Mastery**: Git | GitHub | Linux  
+---
 
-## 🌋 **FORGING EXPERTISE: THE CRUCIBLE**  
-- **Explainable AI (XAI)** – Illuminating the Black Box  
-- **Imbalanced Data Alchemy** – Turning Chaos into Precision  
-- **Research-Grade ML Pipelines** – Engineered for Impact  
+## 🏆 **FEATURED PROJECT: HIGH-RATIO MRI COMPRESSION ANALYSIS**
 
-## 📈 **METRICS OF MASTERY**  
-- **Journey Epoch**: ![Weeks](https://img.shields.io/badge/Weeks-1-00FFFF?style=for-the-badge&logo=clock) *(Since Apr 8, 2025)*  
-- **Research Conquests**: 1 Paper Vanquished  
-- **Code Chronicles**: [Commit Saga](https://github.com/AjmalMIITM)  
-- **Activity Constellation**:  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AjmalMIITM&theme=merko&hide_border=true)  
+*   **Objective:** Investigated Autoencoder (AE), PCA, and Wavelet methods for ~500x compression of 3D Brain MRI scans (Stanford AIMI Dataset). Evaluated reconstruction quality (PSNR) and architectural trade-offs under **severe data limitation (4 samples)**.
+*   **Key Finding:** Refined AE architecture (V6: ~24.1dB) crucial for high-compression but classical methods (Windowed PCA: ~26.5dB, Wavelet: ~26.2dB) achieved superior numerical PSNR on this sparse dataset. **Data availability identified as the primary bottleneck.**
+*   **Significance:** Demonstrated rigorous comparison methodology, architectural impact analysis for AEs, and benchmarking against classical techniques. Highlights the trade-off between numerical fidelity and potential for learned latent representations (AEs).
+*   **Codebase & Report:** [Stanford-MRI-Compression-AE-PCA](https://github.com/AjmalMIITM/Stanford-MRI-Compression-AE-PCA) *(Includes detailed analysis in notebook)*
 
-## 🌐 **STRATEGIC ALLIANCES**  
-- **Command Hub**: [LinkedIn Nexus](https://www.linkedin.com/in/ajmal-m-282670284/)  
-- **Proving Grounds**: [Mini-ML-Projects](https://github.com/AjmalMIITM/Mini-ML-Projects)  
+---
 
-## 🌟 **LEGACY IN NUMBERS**  
-![Ajmal’s GitHub Cosmos](https://github-readme-stats.vercel.app/api?username=AjmalMIITM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true)  
-![Dominant Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjmalMIITM&theme=midnight-purple&layout=compact&hide_border=true)  
+## 🛠️ **CORE TOOLKIT & TECHNOLOGIES**
+
+*   **Programming & Data:** `Python` | `Pandas` | `NumPy` | `SQL`
+*   **Machine Learning:** `Scikit-learn` | `TensorFlow` | `PyTorch`
+*   **NLP / LLMs:** `Hugging Face` | `LangChain` | Transformers
+*   **Explainable AI (XAI):** `SHAP` | `LIME`
+*   **Development & Ops:** `Git` | `GitHub` | `Docker` | `Linux` | `Streamlit`
+
+## 💡 **KEY STRENGTHS & EXPERTISE**
+
+*   **Explainable AI (XAI):** Demystifying complex model decisions for trust and transparency.
+*   **Imbalanced Data Strategies:** Mastering techniques (SMOTE, ADASYN, etc.) for real-world data challenges.
+*   **End-to-End ML Pipelines:** Designing, building, and deploying robust machine learning systems.
+*   **Deep Learning Architectures:** Implementing CNNs, RNNs, Transformers for diverse tasks.
+*   **LLM Application Development:** Leveraging Large Language Models for innovative solutions (Actively Developing).
+
+## 📊 GITHUB STATS & ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjmalMIITM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Ajmal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjmalMIITM&theme=midnight-purple&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjmalMIITM&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
