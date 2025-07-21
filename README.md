@@ -1,17 +1,18 @@
-# 👋 Hi, I'm Ajmal M.
+# 👋 Hi, I'm Ajmal.
 ## AI Researcher | AI @ IIT Madras  
 ### Stanford x CMU x MBZUAI | Healthcare AI · LLMs 
 
 ---
 
-🧠 I'm an AI researcher focused on deploying **LLMs and Deep Learning** for real-world problems in Healthcare, Compliance, and Smart Cities. I'm currently pursuing a **Bachelors in Artificial Intelligence at IIT Madras**, with AI research experiences at:
+🧠 I'm an AI researcher focused on deploying **LLMs and Deep Learning** for real-world problems in Healthcare. I'm currently pursuing a **Bachelors in Artificial Intelligence at IIT Madras**, with AI research experiences at:
 
 <p align="left">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/Stanford_Cardinal_logo.svg](https://1000logos.net/wp-content/uploads/2018/02/Stanford-University-Logo.png)" alt="Stanford" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Mohamed_Bin_Zayed_University_of_Artificial_Intelligence_logo.svg" alt="MBZUAI" width="120"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Carnegie_Mellon_wordmark.svg" alt="CMU" width="130"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/eb/National_Institute_of_Technology_Calicut_Logo.png" alt="NIT Calicut" width="60"/>
+  <img src="https://asset.zcache.com/assets/graphics/z4/uniquePages/decoreatedSearch/StanfordWide.v2.jpg" alt="Stanford" width="217"/>
+  <img src="https://contentstatic.techgig.com/thumb/msid-71773072,width-800,resizemode-4/Abu-Dhabi-inaugurates-worlds-first-AI-university-admissions-open-for-next-year.jpg?31494" alt="MBZUAI" width="360"/>
+  <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/CarnegieMellonUniversity-logo-350x350.png" alt="CMU" width="130"/>
+  <img src="https://scontent.fccj3-1.fna.fbcdn.net/v/t39.30808-6/405488334_792888432640896_8285788842279378936_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rzWC-wPXMiAQ7kNvwFuJOgd&_nc_oc=Adn9gJQr4ZXgqLhRmMfktt7M58KgPO4iTetB6sr09zYJwljaZUjxjBNhHv-PrirkyW0&_nc_zt=23&_nc_ht=scontent.fccj3-1.fna&_nc_gid=-XrbeJPeV7r-DvD_0E55mA&oh=00_AfQ7vS0PnTjBMzpr6l-HDVZ5s6fW3p1xzl-Lz1lJ6Mew5Q&oe=6883F695" alt="NIT Calicut" width="110"/>
 </p>
+
 
 ---
 
