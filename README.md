@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ajmal.
-## AI Researcher | AI @ IIT Madras  
+## AI Researcher | UG @ IIT Madras  
 ### Stanford x CMU x MBZUAI | Healthcare AI · LLMs 
 
 ---
