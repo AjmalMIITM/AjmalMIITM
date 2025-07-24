@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajmal.
+# 👋 Hi, I'm Ajmal. Nice To Meet You 😃
 ## AI Researcher | UG @ IIT Madras  
 ### Stanford x CMU x MBZUAI | Healthcare AI · LLMs 
 
