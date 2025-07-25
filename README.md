@@ -19,7 +19,7 @@
 
 ## 🌍 What I'm Working On
 
-- 🩺 **Healthcare AI**: Clinical QA, Medical Imaging AI, Compliance-aware Decision Support  
+- 🩺 **Healthcare AI**: Clinical Reasoning in LLMs, Medical Imaging, and Vision-Language Biomarkers.  
 
 ---
 
