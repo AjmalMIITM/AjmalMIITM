@@ -11,7 +11,7 @@
   <img src="https://contentstatic.techgig.com/thumb/msid-71773072,width-800,resizemode-4/Abu-Dhabi-inaugurates-worlds-first-AI-university-admissions-open-for-next-year.jpg?31494" alt="MBZUAI" width="360"/>
   <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/CarnegieMellonUniversity-logo-350x350.png" alt="CMU" width="130"/>
   <img src="https://mukundvarmat.github.io/iitm-resume/images/iitm_logo.png" alt="IITM" width="130"/>
-  <img src="https://scontent.fccj3-1.fna.fbcdn.net/v/t39.30808-6/405488334_792888432640896_8285788842279378936_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rzWC-wPXMiAQ7kNvwFuJOgd&_nc_oc=Adn9gJQr4ZXgqLhRmMfktt7M58KgPO4iTetB6sr09zYJwljaZUjxjBNhHv-PrirkyW0&_nc_zt=23&_nc_ht=scontent.fccj3-1.fna&_nc_gid=-XrbeJPeV7r-DvD_0E55mA&oh=00_AfQ7vS0PnTjBMzpr6l-HDVZ5s6fW3p1xzl-Lz1lJ6Mew5Q&oe=6883F695" alt="NIT Calicut" width="110"/>
+  <img src="https://nitc.ac.in/xc-assets/logo/logo-white-01.svg" alt="NIT Calicut" width="350"/>
 </p>
 
 
