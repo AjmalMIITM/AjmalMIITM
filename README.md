@@ -17,7 +17,7 @@
 
 ---
 
-## 🌍 What I'm Working On
+## 🌍 What I am Working On
 
 - 🩺 **Healthcare AI**: Clinical Reasoning in LLMs, Medical Imaging, and Vision-Language Biomarkers.  
 
