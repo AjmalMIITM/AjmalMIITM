@@ -8,7 +8,6 @@
 
 <p align="left">
   <img src="https://asset.zcache.com/assets/graphics/z4/uniquePages/decoreatedSearch/StanfordWide.v2.jpg" alt="Stanford" width="217"/>
-  <img src="https://contentstatic.techgig.com/thumb/msid-71773072,width-800,resizemode-4/Abu-Dhabi-inaugurates-worlds-first-AI-university-admissions-open-for-next-year.jpg?31494" alt="MBZUAI" width="360"/>
   <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/CarnegieMellonUniversity-logo-350x350.png" alt="CMU" width="130"/>
   <img src="https://mukundvarmat.github.io/iitm-resume/images/iitm_logo.png" alt="IITM" width="130"/>
   <img src="https://nitc.ac.in/xc-assets/logo/logo-white-01.svg" alt="NIT Calicut" width="350"/>
