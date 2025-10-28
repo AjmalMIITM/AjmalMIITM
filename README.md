@@ -18,7 +18,7 @@
 
 ## 🌍 What I am Working On
 
-- 🩺 **Healthcare AI**: Multimodal Reasoning in LLMs, Medical Imaging, and Vision-Language Biomarkers.  
+- 🧬 **AI Research**: I’m exploring AI across language, vision, and 3D data, using self-supervised and multimodal approaches to build models that can reason across domains and move toward more general intelligence.  
 
 ---
 
