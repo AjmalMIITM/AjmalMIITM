@@ -1,6 +1,6 @@
 # Hi, I'm Ajmal. Nice To Meet You 😃
 ## AI Researcher | UG @ IIT Madras  
-### Stanford x CMU x MBZUAI x MIT | General Intelligence · Multimodal AI · NLP Reasoning
+### Stanford x CMU x MBZUAI x MIT | Work indeed leans toward AG? Yes!
 
 ---
 
