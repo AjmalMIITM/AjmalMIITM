@@ -4,7 +4,7 @@
 
 ---
 
-🧠 I'm an AI Researcher focused on **Multimodal Reasoning in LLMs, Medical Imaging, and Vision-Language Biomarkers.** I'm currently pursuing a **Bachelors in Artificial Intelligence at IIT Madras**, with AI research experiences at:
+🧠 I'm an AI Researcher focused on **Self-Supervised & Foundation Model Research in AI • Multimodal & 3D Deep Learning for Medical Imaging • Large Language Models for Reasoning & Multilingual NLP.** I'm currently pursuing a **Bachelors in Artificial Intelligence at IIT Madras**, with AI research experiences at:
 
 <p align="left">
   <img src="https://asset.zcache.com/assets/graphics/z4/uniquePages/decoreatedSearch/StanfordWide.v2.jpg" alt="Stanford" width="217"/>
