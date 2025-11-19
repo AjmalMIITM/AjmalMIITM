@@ -4,7 +4,7 @@
 
 ---
 
-🧠 I'm an AI Researcher focused on **Self-Supervised & Foundation Model Research in AI • Multimodal & 3D Deep Learning for Medical Imaging • Large Language Models for Reasoning & Multilingual NLP.** I'm currently pursuing a **Bachelors in Artificial Intelligence at IIT Madras**, with AI research experiences at:
+I'm an AI Researcher focused on **Self-Supervised & Foundation Model Research in AI • Multimodal & 3D Deep Learning for Medical Imaging • Large Language Models for Reasoning & Multilingual NLP.** I'm currently pursuing a **Bachelors in Artificial Intelligence at IIT Madras**, with AI research experiences at:
 
 <p align="left">
   <img src="https://asset.zcache.com/assets/graphics/z4/uniquePages/decoreatedSearch/StanfordWide.v2.jpg" alt="Stanford" width="217"/>
@@ -16,13 +16,13 @@
 
 ---
 
-## 🌍 What I am Working On
+##  What I am Working On
 
-- 🧬 **AI Research**: I’m exploring AI across language, vision, and 3D data, using self-supervised and multimodal approaches to build models that can reason across domains and move toward more general intelligence.  
+-  **AI Research**: I’m exploring AI across language, vision, and 3D data, using self-supervised and multimodal approaches to build models that can reason across domains and move toward more general intelligence.  
 
 ---
 
-## 🌐 Socials:
+##  Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajmal_.m._) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmal-m-282670284) 
@@ -30,7 +30,7 @@
 
 ---
 
-## 💻 Tech Stack:
+##  Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AJMALMIITM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AJMALMIITM&theme=dark&hide_border=false)<br/>
@@ -56,13 +56,13 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+##  GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=AJMALMIITM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 🔝 Top Contributed Repo:
+##  Top Contributed Repo:
 
 ![](https://github-contributor-stats.vercel.app/api?username=AJMALMIITM&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
