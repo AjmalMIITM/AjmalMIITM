@@ -1,71 +1,120 @@
-# Hi, I'm Ajmal. Nice To Meet You 😃
-## AI Researcher | UG @ IIT Madras  
-### Stanford x CMU x MBZUAI x MIT | Work indeed leans towards ___? Yes!
+<!-- Header & Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ajmal+M;AI+Researcher+%40+MIT+%7C+CMU+%7C+Stanford;Undergrad+Student+%40+IIT+Madras;Medical+AI+%7C+Causal+Inference+%7C+NLP" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3>Bridging Clinical Reality & Deep Learning Architectures.</h3>
+  <p>Focused on <b>Self-Supervised Learning</b>, <b>Multimodal Medical AI</b>, and <b>Reasoning in LLMs</b>.</p>
+</div>
+
+<!-- LOGOS SECTION (Using your specific links) -->
+<div align="center">
+  <br />
+  <!-- MIT (Working Standard) -->
+  <a href="https://www.mit.edu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" alt="MIT" height="50" style="margin: 0 10px; vertical-align: middle;"/>
+  </a>
+  <!-- Stanford (Your Link) -->
+  <a href="https://www.stanford.edu">
+    <img src="https://asset.zcache.com/assets/graphics/z4/uniquePages/decoreatedSearch/StanfordWide.v2.jpg" alt="Stanford" height="50" style="margin: 0 10px; vertical-align: middle;"/>
+  </a>
+  <!-- CMU (Your Link) -->
+  <a href="https://www.cmu.edu">
+    <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/CarnegieMellonUniversity-logo-350x350.png" alt="CMU" height="65" style="margin: 0 10px; vertical-align: middle;"/>
+  </a>
+  <!-- MBZUAI (Added White Logo for Dark Mode) -->
+  <a href="https://mbzuai.ac.ae">
+    <img src="https://mbzuai.ac.ae/wp-content/uploads/2022/06/mbzuai-logo-white.svg" alt="MBZUAI" height="45" style="margin: 0 10px; vertical-align: middle; background-color: #000; padding: 5px; border-radius: 6px;"/>
+  </a>
+  <!-- IIT Madras (Your Link) -->
+  <a href="https://www.iitm.ac.in">
+    <img src="https://mukundvarmat.github.io/iitm-resume/images/iitm_logo.png" alt="IITM" height="65" style="margin: 0 10px; vertical-align: middle;"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Socials -->
+<div align="center">
+  <a href="https://ajmalmiitm.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio_Website-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ajmal-m-282670284">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="mailto:2f42004489@ds.study.iitm.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ajmal_.m._">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-I'm an AI Researcher focused on **Self-Supervised & Foundation Model Research in AI • Multimodal & 3D Deep Learning for Medical Imaging • Large Language Models for Reasoning & Multilingual NLP.** I'm currently pursuing a **Bachelors in Artificial Intelligence at IIT Madras**, with AI research experiences at:
+###  What I'm Working On
 
-<p align="left">
-  <img src="https://asset.zcache.com/assets/graphics/z4/uniquePages/decoreatedSearch/StanfordWide.v2.jpg" alt="Stanford" width="217"/>
-  <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/CarnegieMellonUniversity-logo-350x350.png" alt="CMU" width="130"/>
-  <img src="https://mukundvarmat.github.io/iitm-resume/images/iitm_logo.png" alt="IITM" width="130"/>
-  <img src="https://nitc.ac.in/xc-assets/logo/logo-white-01.svg" alt="NIT Calicut" width="350"/>
-</p>
-
-
----
-
-##  What I am Working On
-
--  **AI Research**: I’m exploring AI across language, vision, and 3D data, using self-supervised and multimodal approaches to build models that can reason across domains and move toward more general intelligence.  
+| **Focus Area** | **Description** |
+|:---|:---|
+|  **Medical AI** | Causal inference in critical care (MIMIC-IV) & Trial Emulation at **MIT**. |
+|  **3D Vision** | Representation learning for 3D MRI & BrainMVP at **CMU**. |
+|  **Multimodal** | Foundation models connecting Vision, Language, and 3D data (NeurIPS 2025 Survey). |
+|  **LLMs** | Clinical reasoning & Multilingual NLP at **MBZUAI**. |
 
 ---
 
-##  Socials:
+### 🛠 Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajmal_.m._) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmal-m-282670284) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2f42004489@ds.study.iitm.ac.in)
+<div align="center">
 
----
+<!-- Languages -->
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-##  Tech Stack:
+<!-- Frameworks -->
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<!-- Tools -->
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
----
-
-##  GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=AJMALMIITM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AJMALMIITM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AJMALMIITM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://komarev.com/ghpvc/?username=AJMALMIITM&label=Profile%20views&color=0e75b6&style=flat)
-
+</div>
 
 ---
 
-##  GitHub Trophies:
+###  GitHub Analytics
 
-![](https://github-profile-trophy.vercel.app/?username=AJMALMIITM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AJMALMIITM&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <br/><br/>
+  
+  <!-- Stats Grid -->
+  <a href="https://github.com/AJMALMIITM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AJMALMIITM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJMALMIITM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  </a>
+  <br/>
+  
+  <!-- Streak & Activity -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AJMALMIITM&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AJMALMIITM&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
 
----
-
-##  Top Contributed Repo:
-
-![](https://github-contributor-stats.vercel.app/api?username=AJMALMIITM&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AJMALMIITM&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Footer -->
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=AJMALMIITM&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+  <br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=AJMALMIITM&icon=0&color=0" />
+  </a>
+</div>
