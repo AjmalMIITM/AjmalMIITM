@@ -86,7 +86,7 @@
 <div align="center">
   <!-- Trophies (FIXED) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AJMALMIITM&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+    <img src="" alt="Trophies" />
   </a>
   <br/><br/>
   
