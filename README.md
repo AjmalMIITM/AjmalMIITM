@@ -11,25 +11,17 @@
 <!-- LOGOS SECTION (Using your specific links) -->
 <div align="center">
   <br />
-  <!-- MIT (Working Standard) -->
+  <!-- MIT -->
   <a href="https://www.mit.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" alt="MIT" height="50" style="margin: 0 10px; vertical-align: middle;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" alt="MIT" height="65" style="margin: 0 10px; vertical-align: middle;"/>
   </a>
-  <!-- Stanford (Your Link) -->
-  <a href="https://www.stanford.edu">
-    <img src="https://asset.zcache.com/assets/graphics/z4/uniquePages/decoreatedSearch/StanfordWide.v2.jpg" alt="Stanford" height="50" style="margin: 0 10px; vertical-align: middle;"/>
-  </a>
-  <!-- CMU (Your Link) -->
+  <!-- CMU (Square Logo) -->
   <a href="https://www.cmu.edu">
-    <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/CarnegieMellonUniversity-logo-350x350.png" alt="CMU" height="50" style="margin: 0 10px; vertical-align: middle;"/>
+    <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/CarnegieMellonUniversity-logo-350x350.png" alt="CMU" height="65" style="margin: 0 10px; vertical-align: middle;"/>
   </a>
-  <!-- MBZUAI (Added White Logo for Dark Mode) -->
-  <a href="https://mbzuai.ac.ae">
-    <img src="https://abudhabieduguide.com/wp-content/uploads/MBZUAI-Logo_En.jpg" alt="MBZUAI" height="50" style="margin: 0 10px; vertical-align: middle; background-color: #000; padding: 5px; border-radius: 6px;"/>
-  </a>
-  <!-- IIT Madras (Your Link) -->
+  <!-- IIT Madras -->
   <a href="https://www.iitm.ac.in">
-    <img src="https://mukundvarmat.github.io/iitm-resume/images/iitm_logo.png" alt="IITM" height="50" style="margin: 0 10px; vertical-align: middle;"/>
+    <img src="https://mukundvarmat.github.io/iitm-resume/images/iitm_logo.png" alt="IITM" height="65" style="margin: 0 10px; vertical-align: middle;"/>
   </a>
 </div>
 
@@ -92,14 +84,16 @@
 ###  GitHub Analytics
 
 <div align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AJMALMIITM&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <!-- Trophies (FIXED) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AJMALMIITM&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
   <br/><br/>
   
   <!-- Stats Grid -->
   <a href="https://github.com/AJMALMIITM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AJMALMIITM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJMALMIITM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AJMALMIITM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJMALMIITM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
   </a>
   <br/>
   
@@ -115,6 +109,6 @@
   <img src="https://komarev.com/ghpvc/?username=AJMALMIITM&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
   <br/>
   
-  <!-- YOUR VISITOR COUNT LINK -->
+  <!--  VISITOR COUNT LINK -->
   [![](https://visitcount.itsvg.in/api?id=AJMALMIITM&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
