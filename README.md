@@ -59,7 +59,7 @@
 |:---|:---|
 |  **Medical AI** | Causal inference in critical care (MIMIC-IV) & Trial Emulation at **MIT**. |
 |  **3D Vision** | Representation learning for 3D MRI & BrainMVP at **CMU**. |
-|  **Multimodal** | Foundation models connecting Vision, Language, and 3D data (NeurIPS 2025 Survey). |
+|  **Multimodal** | Foundation models connecting Vision, Language, and 3D data. |
 |  **LLMs** | Clinical reasoning & Multilingual NLP at **MBZUAI**. |
 
 ---
