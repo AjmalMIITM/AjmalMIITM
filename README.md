@@ -85,7 +85,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?AJMALMIITM=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="Trophies" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?AJMALMIITM=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="Trophies" />
   </a>
   <br/><br/>
   
