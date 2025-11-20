@@ -1,6 +1,6 @@
 <!-- Header & Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ajmal+M;AI+Researcher+%40+MIT+%7C+CMU+%7C+Stanford;Undergrad+Student+%40+IIT+Madras;Medical+AI+%7C+Causal+Inference+%7C+NLP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ajmal;AI+Researcher+%40+MIT+%7C+CMU+%7C+Stanford;Undergrad+Student+%40+IIT+Madras;Medical+AI+%7C+Causal+Inference+%7C+NLP" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -56,7 +56,7 @@
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -84,9 +84,8 @@
 ###  GitHub Analytics
 
 <div align="center">
-  <!-- Trophies (FIXED) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="" alt="Trophies" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?AJMALMIITM=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="Trophies" />
   </a>
   <br/><br/>
   
