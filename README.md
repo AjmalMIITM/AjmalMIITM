@@ -21,15 +21,15 @@
   </a>
   <!-- CMU (Your Link) -->
   <a href="https://www.cmu.edu">
-    <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/CarnegieMellonUniversity-logo-350x350.png" alt="CMU" height="65" style="margin: 0 10px; vertical-align: middle;"/>
+    <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/CarnegieMellonUniversity-logo-350x350.png" alt="CMU" height="50" style="margin: 0 10px; vertical-align: middle;"/>
   </a>
   <!-- MBZUAI (Added White Logo for Dark Mode) -->
   <a href="https://mbzuai.ac.ae">
-    <img src="https://mbzuai.ac.ae/wp-content/uploads/2022/06/mbzuai-logo-white.svg" alt="MBZUAI" height="45" style="margin: 0 10px; vertical-align: middle; background-color: #000; padding: 5px; border-radius: 6px;"/>
+    <img src="https://abudhabieduguide.com/wp-content/uploads/MBZUAI-Logo_En.jpg" alt="MBZUAI" height="50" style="margin: 0 10px; vertical-align: middle; background-color: #000; padding: 5px; border-radius: 6px;"/>
   </a>
   <!-- IIT Madras (Your Link) -->
   <a href="https://www.iitm.ac.in">
-    <img src="https://mukundvarmat.github.io/iitm-resume/images/iitm_logo.png" alt="IITM" height="65" style="margin: 0 10px; vertical-align: middle;"/>
+    <img src="https://mukundvarmat.github.io/iitm-resume/images/iitm_logo.png" alt="IITM" height="50" style="margin: 0 10px; vertical-align: middle;"/>
   </a>
 </div>
 
@@ -109,12 +109,12 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=AJMALMIITM&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
-<!-- Footer -->
+<!-- Footer & Visitor Count -->
 <div align="center">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=AJMALMIITM&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
   <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AJMALMIITM&icon=0&color=0" />
-  </a>
+  
+  <!-- YOUR VISITOR COUNT LINK -->
+  [![](https://visitcount.itsvg.in/api?id=AJMALMIITM&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
