@@ -8,25 +8,6 @@
   <p>Focused on <b>Self-Supervised Learning</b>, <b>Multimodal Medical AI</b>, and <b>Reasoning in LLMs</b>.</p>
 </div>
 
-<!-- LOGOS SECTION (Using your specific links) -->
-<div align="center">
-  <br />
-  <!-- MIT -->
-  <a href="https://www.mit.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" alt="MIT" height="65" style="margin: 0 10px; vertical-align: middle;"/>
-  </a>
-  <!-- CMU (Square Logo) -->
-  <a href="https://www.cmu.edu">
-    <img src="https://www.eduopinions.com/wp-content/uploads/2018/07/CarnegieMellonUniversity-logo-350x350.png" alt="CMU" height="65" style="margin: 0 10px; vertical-align: middle;"/>
-  </a>
-  <!-- IIT Madras -->
-  <a href="https://www.iitm.ac.in">
-    <img src="https://mukundvarmat.github.io/iitm-resume/images/iitm_logo.png" alt="IITM" height="65" style="margin: 0 10px; vertical-align: middle;"/>
-  </a>
-</div>
-
-<br/>
-
 <!-- Socials -->
 <div align="center">
   <a href="https://ajmalmiitm.github.io/">
@@ -49,10 +30,10 @@
 
 | **Focus Area** | **Description** |
 |:---|:---|
-|  **Medical AI** | Causal inference in critical care (MIMIC-IV) & Trial Emulation at **MIT**. |
-|  **3D Vision** | Representation learning for 3D MRI & BrainMVP at **CMU**. |
+|  **Medical AI** | Causal inference in critical care (MIMIC-IV) & Trial Emulation. |
+|  **3D Vision** | Representation learning for 3D MRI & BrainMVP. |
 |  **Multimodal** | Foundation models connecting Vision, Language, and 3D data. |
-|  **LLMs** | Clinical reasoning & Multilingual NLP at **MBZUAI**. |
+|  **LLMs** | Clinical reasoning & Multilingual NLP. |
 
 ---
 
@@ -82,19 +63,6 @@
 ---
 
 ###  GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?AJMALMIITM=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="Trophies" />
-  </a>
-  <br/><br/>
-  
-  <!-- Stats Grid -->
-  <a href="https://github.com/AJMALMIITM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AJMALMIITM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJMALMIITM&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-  </a>
-  <br/>
   
   <!-- Streak & Activity -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=AJMALMIITM&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
